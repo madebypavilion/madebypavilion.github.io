@@ -20,6 +20,10 @@ body, a {
     color: #FFF;
 }
 
+a {
+    text-decoration: initial;
+}
+
 a:hover {
     color: #000;
 }
@@ -43,7 +47,6 @@ object {
 .content-text {
     margin-top: 50px;
     font-size: 25px;
-    text-decoration: initial;
 }
 
 .content {
